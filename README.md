@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Ifekel! 👋
 
-<!--
-**ifekel/ifekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with a diverse skill set in web and software development. I specialize in building robust web applications and have experience with a range of technologies.
 
-Here are some ideas to get you started:
+🌟 **Skills and Technologies:**
+- 💻 Python, Django, Flask
+- 🚀 JavaScript, React
+- 🗃️ SQL, PostgreSQL, MySQL, MongoDB
+- 🌐 HTML, CSS, Bootstrap
+- 🌍 RESTful APIs
+- ⚙️ C++, Java, R
+- 🧰 Git, Docker, AWS, Zeet
+- 📦 Package Management (npm, pip)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Currently Learning:**
+- 🧑‍💻 Data Science and Machine Learning
+
+## About Me
+
+I'm dedicated to creating efficient and scalable solutions that solve real-world problems. With a strong foundation in backend and frontend development, I enjoy working on projects that challenge me and allow me to learn and grow.
+
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/ifeanyichukwu-onyekwelu-36b93922b/
+- Portfolio: https://iffeanyi.vercel.app/
+- Email: ifeanyionyekwelu786@gmail.com
+
+Feel free to connect with me, collaborate on projects, or just say hello! I'm always open to new opportunities and exciting challenges.
