@@ -4,11 +4,11 @@ I'm a passionate full-stack developer with a diverse skill set in web and softwa
 
 🌟 **Skills and Technologies:**
 - 💻 Python, Django, Flask
-- 🚀 JavaScript, React
+- 🚀 JavaScript, Typescript
 - 🗃️ SQL, PostgreSQL, MySQL, MongoDB
 - 🌐 HTML, CSS, Bootstrap
 - 🌍 RESTful APIs
-- ⚙️ C++, Java, R
+- ⚙️ C++, Java
 - 🧰 Git, Docker, AWS, Zeet
 - 📦 Package Management (npm, pip)
 
