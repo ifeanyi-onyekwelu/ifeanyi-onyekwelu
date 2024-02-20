@@ -8,12 +8,9 @@ I'm a passionate full-stack developer with a diverse skill set in web and softwa
 - 🗃️ SQL, PostgreSQL, MySQL, MongoDB
 - 🌐 HTML, CSS, Bootstrap
 - 🌍 RESTful APIs
-- ⚙️ C++, Java
-- 🧰 Git, Docker, AWS, Zeet
+- ⚙️ C++, Java, Spring Boot
+- 🧰 Git, Docker, AWS, Zeet, Digital Ocean
 - 📦 Package Management (npm, pip)
-
-📚 **Currently Learning:**
-- 🧑‍💻 Data Science and Machine Learning
 
 ## About Me
 
