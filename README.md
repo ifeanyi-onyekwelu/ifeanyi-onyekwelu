@@ -1,26 +1,25 @@
-# Hi, I'm Ifekel! 👋
+# Hi, I'm Ifeanyi "Tony" Onyekwelu! 👋  
 
-I'm a passionate full-stack developer with a diverse skill set in web and software development. I specialize in building robust web applications and have experience with a range of technologies.
+I'm a passionate full-stack developer with a strong background in web and software development. I specialize in building scalable and efficient web applications using modern technologies.  
 
-🌟 **Skills and Technologies:**
-- 💻 Python, Django, Flask
-- 🚀 JavaScript, Typescript, Node JS, React JS, Angular
-- 🗃️ SQL, PostgreSQL, MySQL, MongoDB
-- 🌐 HTML, CSS, Bootstrap, Tailwindcss
-- 🌍 RESTful APIs
-- ⚙️ C++, Java, Spring Boot
-- 🧰 Git, Docker, AWS, Zeet, Digital Ocean
-- 📦 Package Management (npm, pip)
+🌟 **Skills and Technologies:**  
+- 💻 **Backend:** Python, Django, Flask, Node.js, FastAPI, GraphQL  
+- 🚀 **Frontend:** JavaScript, TypeScript, React.js, Angular, Next.js  
+- 🗃️ **Databases:** PostgreSQL, MySQL, MongoDB, SQL  
+- 🌐 **Web & UI:** HTML, CSS, Tailwind CSS, Bootstrap  
+- 🔗 **APIs & Integrations:** RESTful APIs, WebSockets, Kafka, RabbitMQ  
+- ⚙️ **Other Technologies:** Java, Spring Boot, C++, Docker, Kubernetes  
+- ☁️ **Cloud & DevOps:** AWS, DigitalOcean, Zeet, CI/CD  
+- 🧰 **Tools & Version Control:** Git, GitHub, npm, pip  
 
-## About Me
+## About Me  
 
-I'm dedicated to creating efficient and scalable solutions that solve real-world problems. With a strong foundation in backend and frontend development, I enjoy working on projects that challenge me and allow me to learn and grow.
+I'm dedicated to building problem-solving projects that provide real-world value. With expertise in both backend and frontend development, I thrive on tackling complex challenges and continuously expanding my skill set.  
 
+## Get in Touch  
 
-## Get in Touch
+- 🌍 **LinkedIn:** [linkedin.com/in/ifeanyichukwu-onyekwelu-36b93922b](https://www.linkedin.com/in/ifeanyichukwu-onyekwelu-36b93922b/)  
+- 🚀 **Portfolio:** [iffeanyi.vercel.app](https://iffeanyi.vercel.app/)  
+- 📩 **Email:** ifeanyionyekwelu786@gmail.com  
 
-- LinkedIn: https://www.linkedin.com/in/ifeanyichukwu-onyekwelu-36b93922b/
-- Portfolio: https://iffeanyi.vercel.app/
-- Email: ifeanyionyekwelu786@gmail.com
-
-Feel free to connect with me, collaborate on projects, or just say hello! I'm always open to new opportunities and exciting challenges.
+Feel free to connect, collaborate on projects, or reach out for exciting opportunities! 🚀
