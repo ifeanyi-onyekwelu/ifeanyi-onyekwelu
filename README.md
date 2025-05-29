@@ -53,6 +53,6 @@ Let’s build something awesome together! 💡
 
 ---
 
-![Ifeanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffeanyionyekwelu&show_icons=true&theme=radical)
+![Ifeanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeanyi-onyekwelu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iffeanyionyekwelu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-onyekwelu&layout=compact&theme=radical)
