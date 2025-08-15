@@ -9,6 +9,7 @@ I love creating **problem-solving products** that deliver value and impact.
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Backend
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
